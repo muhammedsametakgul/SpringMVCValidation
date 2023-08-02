@@ -2,6 +2,7 @@
 This repository includes some validation types 
 
 Note for reader : Please ignore UI for now:) I am following Spring 6 , Spring Boot3 and Hibernate course on Udemy. I will also improve myself in UI:)
+
 -------------------------------
 
 1. @NotNull
