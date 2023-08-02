@@ -1,6 +1,9 @@
 # SpringMVCValidation
 This repository includes some validation types 
 
+Note for reader : Please ignore UI for now:) I am following Spring 6 , Spring Boot3 and Hibernate course on Udemy. I will also improve myself in UI:)
+-------------------------------
+
 1. @NotNull
    When we use this annotation, if the variable we are using with this annotiaton is null, it sends us a warning message.
    
